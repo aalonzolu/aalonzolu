@@ -1,0 +1,114 @@
+<div align="center">
+
+# Hey there, I'm Andrés Alonzo
+
+**Cloud Software Engineer | Back-End & Full-Stack Developer | DevOps Enthusiast**
+
+8+ years building scalable web, mobile, and cloud systems across education, healthcare, and enterprise software.
+
+<img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user={{ username }}&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<details>
+<summary><strong>📊 Languages Across My Public Repos</strong></summary>
+<br>
+
+<div align="center">
+
+{% for lang in languages[:8] %}![{{ lang.name }}](https://img.shields.io/badge/-{{ lang.name | urlencode }}-{{ lang.color }}?style=flat-square&logo={{ lang.logo }}&logoColor=white){% if not loop.last %} {% endif %}
+{% endfor %}
+
+</div>
+
+```text
+{% for lang in languages[:10] %}
+{{ "%-14s" | format(lang.name) }} {{ lang.bar }}  {{ "%5.1f" | format(lang.percentage) }}%
+{% endfor %}
+```
+
+</details>
+
+<details>
+<summary><strong>📈 Contribution Summary (Last Year)</strong></summary>
+<br>
+
+<div align="center">
+
+| Metric | Count |
+|:-------|------:|
+| **Total Contributions** | {{ "{:,}".format(stats.total_contributions) }} |
+| Commits | {{ "{:,}".format(stats.total_commits) }} |
+| Pull Requests | {{ "{:,}".format(stats.total_prs) }} |
+| Issues Opened | {{ "{:,}".format(stats.total_issues) }} |
+| Repos Created | {{ "{:,}".format(stats.total_repos_created) }} |
+| **Followers** | {{ "{:,}".format(stats.followers) }} |
+
+</div>
+
+</details>
+
+<details open>
+<summary><strong>🛠️ Tech Stack</strong></summary>
+<br>
+
+<div align="center">
+
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Tools**<br>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Cloud & DevOps**<br>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Other**<br>
+![Apache Beam](https://img.shields.io/badge/Apache_Beam-E8620C?style=flat-square&logo=apache&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square&logo=kubernetes&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><strong>⭐ Top Repositories</strong></summary>
+<br>
+
+<div align="center">
+{% for repo in top_repos %}
+<a href="{{ repo.url }}">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username={{ username }}&repo={{ repo.name }}&theme=tokyonight&hide_border=true" alt="{{ repo.name }}" />
+</a>
+{% endfor %}
+</div>
+
+</details>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username={{ username }}&style=flat-square&color=6366f1" alt="Profile views" />
+  <br>
+  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>{{ generated_at }}</strong></sub>
+</div>
