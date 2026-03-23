@@ -22,9 +22,9 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
@@ -33,25 +33,25 @@
 
 ```text
 
-C++            ███████████░░░░░░░░░   56.2%
+C++            ███████████░░░░░░░░░   53.8%
 
-PHP            ████░░░░░░░░░░░░░░░░   17.6%
+PHP            ███░░░░░░░░░░░░░░░░░   17.4%
 
-HTML           █░░░░░░░░░░░░░░░░░░░    6.1%
+HTML           █░░░░░░░░░░░░░░░░░░░    5.9%
 
-Java           █░░░░░░░░░░░░░░░░░░░    3.7%
+Python         █░░░░░░░░░░░░░░░░░░░    5.3%
 
-JavaScript     █░░░░░░░░░░░░░░░░░░░    3.4%
+JavaScript     █░░░░░░░░░░░░░░░░░░░    4.4%
 
-Python         █░░░░░░░░░░░░░░░░░░░    3.1%
+Java           █░░░░░░░░░░░░░░░░░░░    3.5%
 
-CSS            ░░░░░░░░░░░░░░░░░░░░    2.3%
+CSS            ░░░░░░░░░░░░░░░░░░░░    2.2%
 
-SCSS           ░░░░░░░░░░░░░░░░░░░░    2.3%
+SCSS           ░░░░░░░░░░░░░░░░░░░░    2.2%
 
-C              ░░░░░░░░░░░░░░░░░░░░    1.3%
+C              ░░░░░░░░░░░░░░░░░░░░    1.2%
 
-C#             ░░░░░░░░░░░░░░░░░░░░    1.3%
+C#             ░░░░░░░░░░░░░░░░░░░░    1.2%
 
 ```
 
@@ -65,11 +65,11 @@ C#             ░░░░░░░░░░░░░░░░░░░░    1
 
 | Metric | Count |
 |:-------|------:|
-| **Total Contributions** | 1,253 |
-| Commits | 919 |
+| **Total Contributions** | 1,242 |
+| Commits | 918 |
 | Pull Requests | 23 |
-| Issues Opened | 287 |
-| Repos Created | 11 |
+| Issues Opened | 276 |
+| Repos Created | 12 |
 | **Followers** | 21 |
 
 </div>
@@ -147,5 +147,5 @@ C#             ░░░░░░░░░░░░░░░░░░░░    1
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aalonzolu&style=flat-square&color=6366f1" alt="Profile views" />
   <br>
-  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-03-17 18:48 UTC</strong></sub>
+  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-03-23 06:37 UTC</strong></sub>
 </div>
