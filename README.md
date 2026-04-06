@@ -25,33 +25,33 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 
 </div>
 
 ```text
 
-C++            ███████████░░░░░░░░░   53.8%
+C++            ███████████░░░░░░░░░   52.9%
 
-PHP            ███░░░░░░░░░░░░░░░░░   17.4%
+PHP            ███░░░░░░░░░░░░░░░░░   17.1%
 
-HTML           █░░░░░░░░░░░░░░░░░░░    5.9%
+HTML           █░░░░░░░░░░░░░░░░░░░    5.8%
 
-Python         █░░░░░░░░░░░░░░░░░░░    5.3%
+Python         █░░░░░░░░░░░░░░░░░░░    5.2%
 
 JavaScript     █░░░░░░░░░░░░░░░░░░░    4.4%
 
-Java           █░░░░░░░░░░░░░░░░░░░    3.5%
+Java           █░░░░░░░░░░░░░░░░░░░    3.4%
+
+C#             █░░░░░░░░░░░░░░░░░░░    2.9%
 
 CSS            ░░░░░░░░░░░░░░░░░░░░    2.2%
 
-SCSS           ░░░░░░░░░░░░░░░░░░░░    2.2%
+SCSS           ░░░░░░░░░░░░░░░░░░░░    2.1%
 
 C              ░░░░░░░░░░░░░░░░░░░░    1.2%
-
-C#             ░░░░░░░░░░░░░░░░░░░░    1.2%
 
 ```
 
@@ -65,10 +65,10 @@ C#             ░░░░░░░░░░░░░░░░░░░░    1
 
 | Metric | Count |
 |:-------|------:|
-| **Total Contributions** | 1,238 |
-| Commits | 927 |
-| Pull Requests | 26 |
-| Issues Opened | 260 |
+| **Total Contributions** | 1,253 |
+| Commits | 947 |
+| Pull Requests | 28 |
+| Issues Opened | 252 |
 | Repos Created | 12 |
 | **Followers** | 21 |
 
@@ -147,5 +147,5 @@ C#             ░░░░░░░░░░░░░░░░░░░░    1
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aalonzolu&style=flat-square&color=6366f1" alt="Profile views" />
   <br>
-  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-03-30 06:48 UTC</strong></sub>
+  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-04-06 06:49 UTC</strong></sub>
 </div>
