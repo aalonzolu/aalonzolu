@@ -33,19 +33,19 @@
 
 ```text
 
-C++            ███████████░░░░░░░░░   52.9%
+C++            ██████████░░░░░░░░░░   51.9%
 
-PHP            ███░░░░░░░░░░░░░░░░░   17.1%
+PHP            ███░░░░░░░░░░░░░░░░░   17.3%
 
-HTML           █░░░░░░░░░░░░░░░░░░░    5.8%
+HTML           █░░░░░░░░░░░░░░░░░░░    5.7%
 
-Python         █░░░░░░░░░░░░░░░░░░░    5.2%
+Python         █░░░░░░░░░░░░░░░░░░░    5.7%
 
-JavaScript     █░░░░░░░░░░░░░░░░░░░    4.4%
+JavaScript     █░░░░░░░░░░░░░░░░░░░    4.7%
 
 Java           █░░░░░░░░░░░░░░░░░░░    3.4%
 
-C#             █░░░░░░░░░░░░░░░░░░░    2.9%
+C#             █░░░░░░░░░░░░░░░░░░░    3.3%
 
 CSS            ░░░░░░░░░░░░░░░░░░░░    2.2%
 
@@ -65,11 +65,11 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
 
 | Metric | Count |
 |:-------|------:|
-| **Total Contributions** | 1,291 |
-| Commits | 1,009 |
-| Pull Requests | 31 |
-| Issues Opened | 223 |
-| Repos Created | 12 |
+| **Total Contributions** | 1,298 |
+| Commits | 1,026 |
+| Pull Requests | 32 |
+| Issues Opened | 210 |
+| Repos Created | 13 |
 | **Followers** | 21 |
 
 </div>
@@ -147,5 +147,5 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aalonzolu&style=flat-square&color=6366f1" alt="Profile views" />
   <br>
-  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-04-13 06:57 UTC</strong></sub>
+  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-04-20 06:58 UTC</strong></sub>
 </div>
