@@ -65,12 +65,12 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
 
 | Metric | Count |
 |:-------|------:|
-| **Total Contributions** | 1,301 |
-| Commits | 1,016 |
+| **Total Contributions** | 1,286 |
+| Commits | 999 |
 | Pull Requests | 34 |
-| Issues Opened | 219 |
+| Issues Opened | 221 |
 | Repos Created | 15 |
-| **Followers** | 21 |
+| **Followers** | 20 |
 
 </div>
 
@@ -134,8 +134,8 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aalonzolu&repo=arducar&theme=tokyonight&hide_border=true" alt="arducar" />
 </a>
 
-<a href="https://github.com/aalonzolu/python_diploma_generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aalonzolu&repo=python_diploma_generator&theme=tokyonight&hide_border=true" alt="python_diploma_generator" />
+<a href="https://github.com/aalonzolu/digifact">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aalonzolu&repo=digifact&theme=tokyonight&hide_border=true" alt="digifact" />
 </a>
 
 </div>
@@ -147,5 +147,5 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aalonzolu&style=flat-square&color=6366f1" alt="Profile views" />
   <br>
-  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-05-11 07:28 UTC</strong></sub>
+  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-05-18 07:39 UTC</strong></sub>
 </div>
