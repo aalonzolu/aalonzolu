@@ -65,10 +65,10 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
 
 | Metric | Count |
 |:-------|------:|
-| **Total Contributions** | 1,267 |
-| Commits | 981 |
-| Pull Requests | 29 |
-| Issues Opened | 224 |
+| **Total Contributions** | 1,241 |
+| Commits | 967 |
+| Pull Requests | 21 |
+| Issues Opened | 220 |
 | Repos Created | 15 |
 | **Followers** | 20 |
 
@@ -147,5 +147,5 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aalonzolu&style=flat-square&color=6366f1" alt="Profile views" />
   <br>
-  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-05-25 07:50 UTC</strong></sub>
+  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-06-01 08:05 UTC</strong></sub>
 </div>
