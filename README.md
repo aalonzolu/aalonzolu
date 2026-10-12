@@ -33,23 +33,23 @@
 
 ```text
 
-C++            ██████████░░░░░░░░░░   51.0%
+C++            ██████████░░░░░░░░░░   51.5%
 
-PHP            ███░░░░░░░░░░░░░░░░░   17.4%
+PHP            ████░░░░░░░░░░░░░░░░   17.8%
 
-Python         █░░░░░░░░░░░░░░░░░░░    5.9%
+Python         █░░░░░░░░░░░░░░░░░░░    6.1%
 
-HTML           █░░░░░░░░░░░░░░░░░░░    5.6%
+HTML           █░░░░░░░░░░░░░░░░░░░    5.7%
 
-JavaScript     █░░░░░░░░░░░░░░░░░░░    5.3%
+JavaScript     █░░░░░░░░░░░░░░░░░░░    5.1%
 
-C#             █░░░░░░░░░░░░░░░░░░░    3.5%
+C#             █░░░░░░░░░░░░░░░░░░░    3.8%
 
 Java           █░░░░░░░░░░░░░░░░░░░    3.3%
 
-CSS            ░░░░░░░░░░░░░░░░░░░░    2.1%
+CSS            ░░░░░░░░░░░░░░░░░░░░    1.5%
 
-SCSS           ░░░░░░░░░░░░░░░░░░░░    2.1%
+SCSS           ░░░░░░░░░░░░░░░░░░░░    1.4%
 
 C              ░░░░░░░░░░░░░░░░░░░░    1.2%
 
@@ -65,10 +65,10 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
 
 | Metric | Count |
 |:-------|------:|
-| **Total Contributions** | 1,964 |
-| Commits | 1,722 |
-| Pull Requests | 45 |
-| Issues Opened | 165 |
+| **Total Contributions** | 2,066 |
+| Commits | 1,822 |
+| Pull Requests | 49 |
+| Issues Opened | 163 |
 | Repos Created | 13 |
 | **Followers** | 22 |
 
@@ -147,5 +147,5 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aalonzolu&style=flat-square&color=6366f1" alt="Profile views" />
   <br>
-  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-10-05 06:46 UTC</strong></sub>
+  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-10-12 06:47 UTC</strong></sub>
 </div>
