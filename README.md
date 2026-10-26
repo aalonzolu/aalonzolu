@@ -22,9 +22,9 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -33,25 +33,25 @@
 
 ```text
 
-C++            ██████████░░░░░░░░░░   51.5%
+C++            ██████████░░░░░░░░░░   50.5%
 
-PHP            ████░░░░░░░░░░░░░░░░   17.8%
+PHP            ███░░░░░░░░░░░░░░░░░   17.4%
 
-Python         █░░░░░░░░░░░░░░░░░░░    6.1%
+Python         █░░░░░░░░░░░░░░░░░░░    6.0%
 
-HTML           █░░░░░░░░░░░░░░░░░░░    5.7%
+C#             █░░░░░░░░░░░░░░░░░░░    5.6%
 
-JavaScript     █░░░░░░░░░░░░░░░░░░░    5.1%
+HTML           █░░░░░░░░░░░░░░░░░░░    5.5%
 
-C#             █░░░░░░░░░░░░░░░░░░░    3.8%
+JavaScript     █░░░░░░░░░░░░░░░░░░░    5.0%
 
 Java           █░░░░░░░░░░░░░░░░░░░    3.3%
 
-CSS            ░░░░░░░░░░░░░░░░░░░░    1.5%
+CSS            ░░░░░░░░░░░░░░░░░░░░    1.4%
 
 SCSS           ░░░░░░░░░░░░░░░░░░░░    1.4%
 
-C              ░░░░░░░░░░░░░░░░░░░░    1.2%
+C              ░░░░░░░░░░░░░░░░░░░░    1.1%
 
 ```
 
@@ -65,11 +65,11 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
 
 | Metric | Count |
 |:-------|------:|
-| **Total Contributions** | 2,139 |
-| Commits | 1,899 |
-| Pull Requests | 49 |
+| **Total Contributions** | 2,361 |
+| Commits | 2,115 |
+| Pull Requests | 54 |
 | Issues Opened | 160 |
-| Repos Created | 13 |
+| Repos Created | 14 |
 | **Followers** | 22 |
 
 </div>
@@ -147,5 +147,5 @@ C              ░░░░░░░░░░░░░░░░░░░░    1
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aalonzolu&style=flat-square&color=6366f1" alt="Profile views" />
   <br>
-  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-10-19 06:40 UTC</strong></sub>
+  <sub>This README updates automatically every week via GitHub Actions. Last updated: <strong>2026-10-26 06:39 UTC</strong></sub>
 </div>
